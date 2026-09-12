@@ -8,12 +8,12 @@ The goal is not to replace source code with marketing language. Each featured ca
 
 | Project | Verification model retained in private source |
 |---|---|
-| **FB Groups** | Separate evidence domains for source, built/staged extension, loaded browser runtime, backend/dashboard runtime, and external-platform acceptance; immutable-artifact production delivery and guarded runtime verification. |
-| **Souketwensa CRM** | Dedicated CI workflows for pull-request verification, database proof, hot verification, and production delivery; tenant-aware application/data boundaries and integration-state reconciliation. |
-| **Aya Cloud** | Production Docker workflow, controlled edge routing, environment/secret separation, customer-vs-private operations boundaries, and explicit application-health verification. |
-| **Kovoyo** | Melos-managed multi-app Flutter monorepo, shared domain/data/realtime/geo/testing packages, PostgreSQL/PostGIS RLS + pgTAP coverage, and physical-device mobile validation. |
-| **Dalilk in Turkey** | Physical Android device screenshots and UI-hierarchy captures, Arabic encoding/integrity standards and repair reports, service-specific verification documentation, and operational review workflows. |
-| **Trendyol Syria** | End-to-end Docker verification stack covering canonical PostgreSQL ingestion, transactional outbox, Redis projections, deterministic OpenSearch indexing, and the read-optimized product API. |
+| **[FB Groups](https://github.com/LEVENT-AY/fb-groups-case-study)** | Separate evidence domains for source, built/staged extension, loaded browser runtime, backend/dashboard runtime, and external-platform acceptance; immutable-artifact production delivery and guarded runtime verification. |
+| **[Souketwensa CRM](https://github.com/LEVENT-AY/souketwensa-crm-case-study)** | Dedicated CI workflows for pull-request verification, database proof, hot verification, and production delivery; tenant-aware application/data boundaries and integration-state reconciliation. |
+| **[Aya Cloud](https://github.com/LEVENT-AY/aya-cloud-case-study)** | Production Docker workflow, controlled edge routing, environment/secret separation, customer-vs-private operations boundaries, and explicit application-health verification. |
+| **[Kovoyo](https://github.com/LEVENT-AY/kovoyo-case-study)** | Melos-managed multi-app Flutter monorepo, shared domain/data/realtime/geo/testing packages, PostgreSQL/PostGIS RLS + pgTAP coverage, and physical-device mobile validation. |
+| **[Dalilk in Turkey](https://github.com/LEVENT-AY/dalilk-in-turkey-case-study)** | Physical Android device screenshots and UI-hierarchy captures, Arabic encoding/integrity standards and repair reports, service-specific verification documentation, and operational review workflows. |
+| **[Trendyol Syria](https://github.com/LEVENT-AY/trendyol-syria-case-study)** | End-to-end Docker verification stack covering canonical PostgreSQL ingestion, transactional outbox, Redis projections, deterministic OpenSearch indexing, and the read-optimized product API. |
 
 ## What is intentionally public
 
@@ -35,6 +35,8 @@ The goal is not to replace source code with marketing language. Each featured ca
 ## Technical interview walkthroughs
 
 Where confidentiality permits, private-source architecture and implementation details can be discussed or walked through during a technical interview. Any walkthrough remains scoped to non-sensitive engineering material; customer data, credentials, and protected operational information are never shared.
+
+A useful technical-interview path is to start with the case study closest to the role, then drill into architecture trade-offs, verification strategy, failure modes, and production debugging decisions.
 
 This policy is deliberate: **public evidence should be useful enough to evaluate engineering judgment without turning production systems into public attack surfaces or giving away commercial source code.**
 
