@@ -46,7 +46,7 @@ Chrome MV3 automation, backend/API, AI worker, dashboard, PostgreSQL state, guar
 
 **Focus:** AI · Browser Automation · Node.js · PostgreSQL · CI/CD
 
-[Read engineering case study](case-studies/fb-groups.md)
+[Open showcase →](https://github.com/LEVENT-AY/fb-groups-case-study)
 
 </td>
 <td width="50%" valign="top">
@@ -58,33 +58,7 @@ Multi-tenant CRM integrating Meta messaging workflows, customer operations, APIs
 
 **Focus:** React · Node.js · Meta APIs · CRM · AI Automation
 
-[Read engineering case study](case-studies/souketwensa-crm.md)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Kovoyo
-**Realtime Shared-Mobility Platform**
-
-Multi-app Flutter system for driver, passenger, and operations flows with realtime state, PostgreSQL/PostGIS, route logic, and geo services.
-
-**Focus:** Flutter · Realtime · PostGIS · Mobile Architecture
-
-[Read engineering case study](case-studies/kovoyo.md)
-
-</td>
-<td width="50%" valign="top">
-
-### Dalilk in Turkey
-**Arabic-First Multi-Service Community Platform**
-
-Flutter/Firebase product spanning service requests, jobs, transport, directories, community flows, moderation, and a web administration system.
-
-**Focus:** Flutter · Firebase · Admin Systems · Product Engineering
-
-[Read engineering case study](case-studies/dalilk-in-turkey.md)
+[Open showcase →](https://github.com/LEVENT-AY/souketwensa-crm-case-study)
 
 </td>
 </tr>
@@ -98,7 +72,33 @@ Hosting-oriented customer platform with service quotas, domain workflows, Docker
 
 **Focus:** Next.js · Docker · Linux · PostgreSQL · Cloudflare
 
-[Read engineering case study](case-studies/aya-cloud.md)
+[Open showcase →](https://github.com/LEVENT-AY/aya-cloud-case-study)
+
+</td>
+<td width="50%" valign="top">
+
+### Kovoyo
+**Realtime Shared-Mobility Platform**
+
+Multi-app Flutter system for driver, passenger, and operations flows with realtime state, PostgreSQL/PostGIS, route logic, and geo services.
+
+**Focus:** Flutter · Realtime · PostGIS · Mobile Architecture
+
+[Open showcase →](https://github.com/LEVENT-AY/kovoyo-case-study)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Dalilk in Turkey
+**Arabic-First Multi-Service Community Platform**
+
+Flutter/Firebase product spanning service requests, jobs, transport, directories, community flows, moderation, and a web administration system.
+
+**Focus:** Flutter · Firebase · Admin Systems · Product Engineering
+
+[Open showcase →](https://github.com/LEVENT-AY/dalilk-in-turkey-case-study)
 
 </td>
 <td width="50%" valign="top">
@@ -110,7 +110,7 @@ Performance-first commerce architecture with catalog ingestion, canonical Postgr
 
 **Focus:** Node.js · PostgreSQL · Redis · OpenSearch · Commerce
 
-[Read engineering case study](case-studies/trendyol-syria.md)
+[Open showcase →](https://github.com/LEVENT-AY/trendyol-syria-case-study)
 
 </td>
 </tr>
@@ -129,7 +129,7 @@ Performance-first commerce architecture with catalog ingestion, canonical Postgr
 
 Several of my strongest systems are commercial or operational products. Their source repositories remain private to protect customer data, credentials, infrastructure details, and intellectual property.
 
-The case studies above document architecture, engineering decisions, technology choices, product scope, and production concerns **without publishing proprietary source code**.
+The public showcases above document architecture, engineering decisions, technology choices, product scope, and production concerns **without publishing proprietary source code**.
 
 ## Languages & Mobility
 
