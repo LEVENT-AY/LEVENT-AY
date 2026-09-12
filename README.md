@@ -33,28 +33,88 @@ My background combines **12+ years of hands-on product and software delivery** w
 | **Integrations** | Meta Graph API, Messenger, WhatsApp-oriented workflows, third-party APIs |
 | **Infrastructure** | Docker, Docker Compose, Linux/WSL, Cloudflare, Nginx, CI/CD, monitoring |
 
-## Selected Engineering Systems
+## Featured Engineering Portfolio
 
-### AI & Automation
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| System | Engineering focus | Case study |
-|---|---|---|
-| **FB Groups** | AI moderation, market intelligence, Chrome MV3 automation, backend/worker/dashboard state, guarded execution | [Read case study](case-studies/fb-groups.md) |
-| **Souketwensa CRM** | Multi-tenant CRM, Meta messaging, APIs, AI-assisted workflows, operational delivery | [Read case study](case-studies/souketwensa-crm.md) |
+### FB Groups
+**AI Moderation & Market Intelligence Platform**
 
-### Mobile & Product Platforms
+Chrome MV3 automation, backend/API, AI worker, dashboard, PostgreSQL state, guarded execution, and production-safe delivery workflows.
 
-| System | Engineering focus | Case study |
-|---|---|---|
-| **Kovoyo** | Multi-app Flutter mobility platform, realtime state, PostgreSQL/PostGIS, geo systems | [Read case study](case-studies/kovoyo.md) |
-| **Dalilk in Turkey** | Arabic-first multi-service Flutter platform, Firebase, admin operations, moderation workflows | [Read case study](case-studies/dalilk-in-turkey.md) |
-| **Trendyol Syria** | Arabic commerce platform, catalog ingestion, PostgreSQL, Redis, OpenSearch, event-driven reliability | [Read case study](case-studies/trendyol-syria.md) |
+**Focus:** AI · Browser Automation · Node.js · PostgreSQL · CI/CD
 
-### Cloud & Infrastructure
+[Read engineering case study](case-studies/fb-groups.md)
 
-| System | Engineering focus | Case study |
-|---|---|---|
-| **Aya Cloud** | VPS/hosting-oriented customer platform, Docker/Linux operations, provisioning boundaries, Cloudflare routing | [Read case study](case-studies/aya-cloud.md) |
+</td>
+<td width="50%" valign="top">
+
+### Souketwensa CRM
+**Omnichannel CRM & AI Operations Platform**
+
+Multi-tenant CRM integrating Meta messaging workflows, customer operations, APIs, AI-assisted response flows, and production delivery.
+
+**Focus:** React · Node.js · Meta APIs · CRM · AI Automation
+
+[Read engineering case study](case-studies/souketwensa-crm.md)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Kovoyo
+**Realtime Shared-Mobility Platform**
+
+Multi-app Flutter system for driver, passenger, and operations flows with realtime state, PostgreSQL/PostGIS, route logic, and geo services.
+
+**Focus:** Flutter · Realtime · PostGIS · Mobile Architecture
+
+[Read engineering case study](case-studies/kovoyo.md)
+
+</td>
+<td width="50%" valign="top">
+
+### Dalilk in Turkey
+**Arabic-First Multi-Service Community Platform**
+
+Flutter/Firebase product spanning service requests, jobs, transport, directories, community flows, moderation, and a web administration system.
+
+**Focus:** Flutter · Firebase · Admin Systems · Product Engineering
+
+[Read engineering case study](case-studies/dalilk-in-turkey.md)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Aya Cloud
+**VPS, Hosting & Customer Operations Platform**
+
+Hosting-oriented customer platform with service quotas, domain workflows, Docker/Linux operations, orchestration boundaries, Cloudflare routing, and health-focused operations.
+
+**Focus:** Next.js · Docker · Linux · PostgreSQL · Cloudflare
+
+[Read engineering case study](case-studies/aya-cloud.md)
+
+</td>
+<td width="50%" valign="top">
+
+### Trendyol Syria
+**Arabic Commerce & Catalog Platform**
+
+Performance-first commerce architecture with catalog ingestion, canonical PostgreSQL data, Redis projections, OpenSearch indexing, and event-driven reliability.
+
+**Focus:** Node.js · PostgreSQL · Redis · OpenSearch · Commerce
+
+[Read engineering case study](case-studies/trendyol-syria.md)
+
+</td>
+</tr>
+</table>
 
 ## Engineering Approach
 
