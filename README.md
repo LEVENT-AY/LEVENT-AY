@@ -8,7 +8,7 @@
 
 Türkiye · Open to relocation across **Saudi Arabia, UAE, and Qatar**
 
-[Email](mailto:LEVENTAYDIN0107@GMAIL.COM) · [GitHub](https://github.com/LEVENT-AY)
+[Email](mailto:leventaydin0107@gmail.com) · [GitHub](https://github.com/LEVENT-AY)
 
 </div>
 
