@@ -1,12 +1,6 @@
+![Levent Aydin engineering portfolio](./assets/profile-hero.svg)
+
 <div align="center">
-
-# Levent Aydin
-
-### Senior Full-Stack, Mobile & AI Automation Engineer
-
-**Production software · AI workflows · mobile systems · platform integrations · cloud infrastructure**
-
-Türkiye · Open to relocation across **Saudi Arabia, UAE, and Qatar**
 
 [Email](mailto:leventaydin0107@gmail.com) · [GitHub](https://github.com/LEVENT-AY)
 
