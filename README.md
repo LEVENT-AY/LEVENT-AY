@@ -22,6 +22,14 @@ My background combines **12+ years of hands-on product and software delivery** w
 
 **Target roles:** Senior Full-Stack Engineer · Product Engineer · Mobile / Flutter Lead · AI Automation Engineer · Solutions Engineer · Technical Lead
 
+### Recruiter start here
+
+| Hiring for | Best starting points |
+|---|---|
+| **Full-Stack / AI Automation** | [FB Groups](https://github.com/LEVENT-AY/fb-groups-case-study) · [Souketwensa CRM](https://github.com/LEVENT-AY/souketwensa-crm-case-study) |
+| **Mobile / Flutter / Realtime** | [Kovoyo](https://github.com/LEVENT-AY/kovoyo-case-study) · [Dalilk in Turkey](https://github.com/LEVENT-AY/dalilk-in-turkey-case-study) |
+| **Platform / Backend / Infrastructure** | [Aya Cloud](https://github.com/LEVENT-AY/aya-cloud-case-study) · [Trendyol Syria](https://github.com/LEVENT-AY/trendyol-syria-case-study) |
+
 ## Core Engineering
 
 | Area | Working stack |
