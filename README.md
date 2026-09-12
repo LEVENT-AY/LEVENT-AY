@@ -133,6 +133,8 @@ Several of my strongest systems are commercial or operational products. Their so
 
 The public showcases above document architecture, engineering decisions, technology choices, product scope, and production concerns **without publishing proprietary source code**.
 
+[How the private-source engineering evidence is verified →](./ENGINEERING_EVIDENCE.md)
+
 ## Languages & Mobility
 
 **Arabic:** Native · **English:** Working professional · **Turkish:** Conversational · **German:** Basic
