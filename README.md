@@ -2,7 +2,9 @@
 
 <div align="center">
 
-[Email](mailto:leventaydin0107@gmail.com) · [GitHub](https://github.com/LEVENT-AY)
+[Email](mailto:leventaydin0107@gmail.com) · [Engineering Evidence](./ENGINEERING_EVIDENCE.md) · [GitHub](https://github.com/LEVENT-AY)
+
+**Türkiye · Open to GCC relocation · Riyadh · UAE · Doha**
 
 </div>
 
@@ -15,6 +17,8 @@ I build and operate production software end to end — from mobile products and 
 My background combines **12+ years of hands-on product and software delivery** with experience across customer-facing applications, automation, operational systems, and infrastructure. I am most effective in roles where engineering ownership goes beyond one layer of the stack.
 
 **Target roles:** Senior Full-Stack Engineer · Product Engineer · Mobile / Flutter Lead · AI Automation Engineer · Solutions Engineer · Technical Lead
+
+**Interview-ready evidence:** architecture decisions · CI/CD and release safety · physical-device QA · integration/reconciliation design · production verification and troubleshooting
 
 ### Recruiter start here
 
